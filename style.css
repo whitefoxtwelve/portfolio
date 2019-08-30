@@ -1,15 +1,19 @@
-*{
+body{
   margin:0;
+  font-family: 'Special Elite', cursive;
 }
-h1{
-  color:red
+.footer_icon{
+  display:flex;
 }
-h2{
-  color:brown;
+.icon{
+  margin-right: 28px;
 }
-.circle{
-  width:100px;
-  height:100px;
-  border-radius: 50%;
-  background:red;
+.header{
+  margin:10%;
+}
+.icon__vk g {
+
+}
+.icon__vk g:hover{
+
 }
